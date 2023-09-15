@@ -1,8 +1,5 @@
 # Hi there, I'm Julius Sinaga 👋
 
-<img align="center" alt="IlustrasiCoding" width="50px"
-src="https://badoystudio.com/wp-content/uploads/2018/07/film-pemrograman.jpg"
-
 ## About me:
 - 📖 I'm currently studyng at [IT DEL](https://www.del.ac.id/)
 - 📫 How to reach me: juliussinaga712@gmail.com
